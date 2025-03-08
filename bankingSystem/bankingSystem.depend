@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1741321870 source:d:\4vv22ec189\bankingsystem\credituser.c
+
+1741321882 source:d:\4vv22ec189\bankingsystem\debituser.c
+
+1741321853 source:d:\4vv22ec189\bankingsystem\deleteuser.c
+
+1741321896 source:d:\4vv22ec189\bankingsystem\transfer.c
+
+1741321840 source:d:\4vv22ec189\bankingsystem\updateuser.c
+
+1741328384 source:d:\4vv22ec189\bankingsystem\createuser.c
+	"createUser.h"
+	<stdio.h>
+
+1741328428 d:\4vv22ec189\bankingsystem\createuser.h
+
